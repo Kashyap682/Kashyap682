@@ -12,4 +12,4 @@ I'm a Electronics and Communication student who is passionate about joining the 
 
 ### Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kashyap682&theme=material-palenight&show_icons=true" />
-<img src="(https://github-profile-trophy.vercel.app/?username=Kashyap682&theme=onedark" />
+<img src="(https://github-profile-trophy.vercel.app/?username=Kashyap682&theme=onedark&show_icons=true" />
