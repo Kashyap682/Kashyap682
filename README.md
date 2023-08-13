@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Kashyap682/Kashyap682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Electronics and Communication student who is passionate about joining the workforce to gain some real-world experience and aquire new skills.
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I’m currently a EC student at Nirma Unversity.
+- 📚 I’m currently learning Computer Networks, CSS and SHELL Scripting.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kashyapsindhav) [Gmail](mailto:kashyapsindhav682@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies and Tools
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyap682&theme=material-palenight&layout=compact" />
+
+### Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kashyap682&theme=material-palenight&show_icons=true" />
