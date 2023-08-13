@@ -8,8 +8,8 @@ I'm a Electronics and Communication student who is passionate about joining the 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kashyapsindhav) [Gmail](mailto:kashyapsindhav682@gmail.com)
 
 ### Technologies and Tools
+- <i class="fa-solid fa-code"></i> <i class="fa-brands fa-python"></i> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyap682&theme=material-palenight&layout=compact" />
 
 ### Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kashyap682&theme=material-palenight&show_icons=true" />
-<img src="(https://github-profile-trophy.vercel.app/?username=Kashyap682&theme=onedark&show_icons=true" />
