@@ -4,7 +4,7 @@ I'm a Electronics and Communication student who is passionate about joining the 
 
 ### About Me
 - 🔭 I’m currently a EC student at Nirma Unversity.
-- 📚 I’m currently learning Computer Networks, CSS and SHELL Scripting.
+- 📚 I’m currently learning Computer Networks, CSS and DBMS.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kashyapsindhav) [Gmail](mailto:kashyapsindhav682@gmail.com)
 
 ### Technologies and Tools
