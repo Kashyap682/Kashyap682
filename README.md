@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Kashyap Sindhav
+<img width="25%" align="right" src="https://i.imgur.com/f36iKFU.gif" title="source: imgur.com" />
 I'm a Electronics and Communication student who is passionate about joining the workforce to gain some real-world experience and aquire new skills.
 
 ### About Me
