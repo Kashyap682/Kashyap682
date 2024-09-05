@@ -3,9 +3,8 @@
 I'm a Electronics and Communication student who is passionate about joining the workforce to gain some real-world experience and aquire new skills.
 
 ### About Me
-- 🔭 I’m currently a EC student at Nirma Unversity.
 - ✉️  You can contact me at [kashyapsindhav682@gmail.com](mailto:kashyapsindhav682@gmail.com)
-- 🧠  I'm learning Computer Networks and DBMS.
+- 🧠  I'm learning Computer Networks.
 - 🖥️  See my portfolio at [My Website.](http://kashyap682.github.io/)
 
 ### Skills
